@@ -6,6 +6,7 @@ const SideBar = () => {
     <div className='w-72' >
       <div className='w-10 h-10 flex mt-6 ml-8 ' >
         <Logo />
+        
       </div>
       
     </div>
@@ -13,3 +14,4 @@ const SideBar = () => {
 }
 
 export default SideBar
+  

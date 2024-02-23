@@ -97,6 +97,7 @@ const Profile = () => {
         <div className='col-span-6 max-xl:col-span-12'>
           <div className='flex flex-col items-center justify-center'>
             <Avatar sx={{ width: 260, height: 260 }} src={ImageAvatar} />
+            
             <TypoDisplay text='Nguyen Van Phat' className='text-display-2xl' />
             <TypoText text='Web developer' className='text-xl pb-4 ' />
           </div>

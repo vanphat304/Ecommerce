@@ -1,7 +1,7 @@
 import Typography from '@mui/material/Typography'
 
 type Props = {
-  text: string
+  text: React.ReactNode
   className?: string
   variant?:
     | 'button'
